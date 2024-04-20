@@ -3,6 +3,9 @@
 ## Project Overview
 AWS cloud-based web application that takes video as input, automatically detects multiple languages used and sends subtitle file in email.
 
+### Video with full explanation, provisioning and demo.
+https://youtu.be/RzPbWkOi628
+
 ## Table of Contents
   - [Technology Overview](#technology-overview)
   - [Architecture](#architecture)
@@ -12,8 +15,7 @@ AWS cloud-based web application that takes video as input, automatically detects
     - [2. Provision the AWS Resources](#2-provision-the-aws-resources)
   - [Part-2: Using the Web App](#part-2-using-the-web-app)
   - [Extras](#extras)
-    - [1. Video with Full Explanation, Provisioning, and Demo](#video-with-full-explanation-provisioning-and-demo)
-    - [2. Why Pre-signed URL for S3?](#why-pre-signed-url-for-s3)
+    - [1. Why Pre-signed URL for S3?](#why-pre-signed-url-for-s3)
   - [Notes](#notes)
 
 
@@ -142,10 +144,6 @@ When the request is being processed, as performed in "Part-2: Using the Web App"
 
 
 ## Extras
-
-### Video with full explanation, provisioning and demo.
-
-Video Link: https://youtu.be/RzPbWkOi628
 
 ### Why pre-signed URL for S3?
 
